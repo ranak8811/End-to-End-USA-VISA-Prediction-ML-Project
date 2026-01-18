@@ -209,3 +209,6 @@ __marimo__/
 
 # virtual env files
 usa_env
+
+# remove artifact files
+artifact/*
